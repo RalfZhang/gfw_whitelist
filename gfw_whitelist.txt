@@ -403,6 +403,7 @@
 
 ! M
 ||mail4geek.com
+||majsoul.com
 ||manmanbuy.com
 ||maoyan.com
 ||masadora.net
@@ -509,6 +510,7 @@
 ||qqmail.com
 ||qqzzz.net
 ||qunar.com
+||qyer.com
 
 ! R
 ||renren.com
@@ -606,6 +608,7 @@
 ||tplogin.cn
 ||truevue.org
 ||ttt.tt
+||tuchong.com
 ||tudou.com
 ||tuicool.com
 ||tuna.moe
@@ -617,6 +620,7 @@
 ||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
+||union-game.com
 ||upaiyun.com
 ||upyun.com
 ||ustc.edu.cn

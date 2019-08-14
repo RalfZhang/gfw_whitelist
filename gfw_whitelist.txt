@@ -200,6 +200,7 @@
 ! D
 ||d7vg.com
 ||dandanplay.com
+||dangdang.com
 ||daocloud.io
 ||datagrand.com
 ||ddos.cc

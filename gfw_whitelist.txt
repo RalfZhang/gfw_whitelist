@@ -221,6 +221,7 @@
 ||douban.fm
 ||doubanio.com
 ||doubleclick.net
+||douc.cc
 ||douyu.com
 ||douyucdn.cn
 ||doyoo.net

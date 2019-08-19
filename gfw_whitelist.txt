@@ -289,6 +289,7 @@
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
+||huanqiukexue.com
 ||huawei.com
 ||huaweicloud.com
 ||huiji.wiki

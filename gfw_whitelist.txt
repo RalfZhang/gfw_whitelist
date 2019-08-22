@@ -27,6 +27,7 @@
 ||10086.cn
 ||114la.com
 ||115.com
+||12306.cn
 ||126.com
 ||126.net
 ||127.net
@@ -222,6 +223,7 @@
 ||douban.fm
 ||doubanio.com
 ||doubleclick.net
+||douc.cc
 ||douyu.com
 ||douyucdn.cn
 ||doyoo.net
@@ -266,6 +268,7 @@
 ||golaravel.com
 ||gtimg.cn
 ||guancha.cn
+||guangzhou-marathon.com
 ||guokr.com
 
 ! H
@@ -288,6 +291,7 @@
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
+||huanqiukexue.com
 ||huawei.com
 ||huaweicloud.com
 ||huiji.wiki

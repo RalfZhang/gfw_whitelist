@@ -168,6 +168,7 @@
 ||ceair.com
 ||cee.network
 ||china.com
+||chinasofti.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
@@ -659,6 +660,7 @@
 ||weidunewtab.com
 ||weiosx.com
 ||weiyun.com
+||westmoviegroup.com
 ||wht.im
 ||wiley.com
 ||wisenjoy.com

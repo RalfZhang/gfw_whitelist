@@ -130,6 +130,7 @@
 ||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
+||baiduwp.com
 ||bankcomm.com
 ||baozoumanhua.com
 ||battlenet.com.cn
